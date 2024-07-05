@@ -21,7 +21,7 @@ export default function data_comp() {
     titre: "Tests",
     color: "bg-upjv-2",
     competences: [
-      "Met au point et exécute des procédures d'essai systématiquespour les systèmes informatiques ou les exigences d'utilisabilitédu client afin d'établir" +
+      "Met au point et exécute des procédures d'essai systématiques pour les systèmes informatiques ou les exigences d'utilisabilité du client afin d'établir" +
       " la conformité avec les spécifications deconception.",
       "S'assure que les composants ou systèmes, nouveauxou mis à jour, fonctionnent comme prévu.",
       "Produit des documents et des rapports mettant en évidence les exigences de certification.",
