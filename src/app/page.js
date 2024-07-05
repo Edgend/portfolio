@@ -100,7 +100,7 @@ export default function Home() {
           </span>
           <div className=" flex flex-row mt-4">
             <span className="italic font-serif text-black">
-              Le Data Analyst qui donne du poids à vos données, sans leurs lourdeur.
+              Le Data Analyst qui donne du poids à vos données, sans leurs lourdeurs.
             </span>
             <span className="ml-4 -mt-2 text-2xl">&#128202;</span>
           </div>
